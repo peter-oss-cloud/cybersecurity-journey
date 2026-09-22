@@ -84,6 +84,15 @@ A private IP address can change when it is dynamically assigned.
 
 A public IP address is used for a network's communication with the wider Internet.
 
+
+IP = address
+IPv4 = 4 octets
+Private = inside the local network
+Public = Internet-facing
+Router = connects networks
+NAT = translates between private and public addressing
+IP helps data reach the correct device
+
 For example, a home network may contain several devices:
 
 ```text
